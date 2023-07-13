@@ -1,0 +1,33 @@
+
+body{
+    background-image: url(https://media.tenor.com/in5ChNjVDI0AAAAC/kid-usopp-usopp-run.gif);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: 40%;
+background-position-x: 100%;}
+h1{
+text-align: center;
+
+
+  font-family: animeace;
+  
+
+
+}
+h3{
+font-size: x-large; 
+text-align:center;
+
+
+}
+h2{
+    margin-right: 50%;
+    font-family: animeace;
+    font-size: medium;
+}
+@font-face{
+    font-family: animeace;
+    src: url("../fonts/animeace.ttf");
+  
+  }
+

@@ -1,0 +1,27 @@
+img{ margin-left:25%;
+height:500px;
+width:800px}
+
+h1{
+    text-align:center;
+    font-family: animeace;
+    
+
+    
+    
+}
+body{
+background-image: url(https://media.tenor.com/-Ltsj6C-1GkAAAAC/one-piece-run-zoro-run.gif);
+background-repeat: no-repeat;
+background-size: cover;
+background-position-y: 35%;    
+background-position-x: 100%;      
+           }      
+@font-face{
+  font-family: animeace;
+  src: url("../fonts/animeace.ttf");}                                                                                                                                                                                                                                                                                                                                                          
+
+h2{
+font-family: animeace; 
+font-size: medium;
+}

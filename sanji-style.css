@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/a9/c8/0b/a9c80bd8748386686ff2dd919b78f2c0.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+}
+h1{
+    font-family: animeace;
+    text-align: center;
+}
+@font-face{
+    font-family: animeace;
+    src: url("../fonts/animeace.ttf");
+  
+  }
+  
